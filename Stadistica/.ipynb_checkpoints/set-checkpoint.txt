@@ -1,0 +1,33 @@
+	'''Bertrand Russell
+	Democracy: fools have a right to vote.
+	Dictatorship: fools have a right to rule.
+	 Most people would rather die than think
+	 in fact, most do.
+	 Men are born ignorant, not stupid
+	 they are made stupid by education
+	 '''
+	 '''
+	 Paradox
+	 R = {sets that don't belong to themselves} ={s:s s no este s}
+
+
+ >>> import matplotlib.pyplot as plt
+ >>> import matplotlib_venn as venn
+ >>> S = {1,2,3}
+ >>> T ={ 0,2,-1,5}
+ >>> venn.venn2([S,T], set_labels =('S','T'))
+ >>> plt.show()
+
+'cartecian product'
+>>> from itertools import product
+>>> faces = set ({'J','Q','K'})
+>>> suit = {'♦','♠'}
+>>> for i in product(faces,suit)
+		print(i)
+
+ 	''' (A n B)c = Ac u Bc
+ 	union = | ej A | B
+ 	intersection = &
+ 	Difference = -
+ 	Symmetric difference = ^ ej A ^ B
+ 	'''

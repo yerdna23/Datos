@@ -1,0 +1,32 @@
+Hi, my name is Yoav Fruend,
+
+Estudiamos esadistica y probabilidad
+
+common sence
+
+Usando la teoria de probabilidad se puede cal-
+cular que tan pequeña la suma va a ser
+
+So, in probability theory,
+we compute probabilities of complex events,
+from the underlying base distribution.
+Statistics takes us in the opposite direction.
+We're given data that was generated
+by some Stochastic process, or some random process,
+
+responderemos
+
+which is, suppose you have a hash table
+with a million elements,
+and you don't want to allow more than five indirections
+at most for 10 elements,
+so how big does the table need to be?
+
+*the argument is correct,
+we need more formalism.
+That's the point of this video.
+We need concepts like outcome and event,
+
+that if X increases by a standard deviation
+then it tells us by how many standard deviations
+we expect of Y, we expect Y to increase, okay?
